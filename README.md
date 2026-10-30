@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/profile-banner.gif" alt="" width="960" />
+</p>
+
 # Hi, I'm Naveen Kumar 👋
 
 ### 🎓 Student | Aspiring Full-Stack Developer
@@ -12,6 +16,10 @@ I'm a Computer Science Engineering student passionate about learning programming
 
 ---
 
+<p align="center">
+  <img src="assets/profile-divider.gif" alt="" width="960" />
+</p>
+
 ### 🛠️ Technologies & Tools
 
 <p>
@@ -24,6 +32,10 @@ I'm a Computer Science Engineering student passionate about learning programming
 
 ---
 
+<p align="center">
+  <img src="assets/profile-divider.gif" alt="" width="960" />
+</p>
+
 ### 📂 Featured Project
 
 #### 🎯 CareerCompase
@@ -33,6 +45,10 @@ A career guidance project focused on helping students explore educational paths 
 **Focus:** Student guidance · Career exploration · Learning roadmaps
 
 ---
+
+<p align="center">
+  <img src="assets/profile-divider.gif" alt="" width="960" />
+</p>
 
 ### 📈 My GitHub Journey
 
@@ -46,11 +62,19 @@ A career guidance project focused on helping students explore educational paths 
 
 ---
 
+<p align="center">
+  <img src="assets/profile-divider.gif" alt="" width="960" />
+</p>
+
 ### 🤝 Connect With Me
 
 * 💻 GitHub: [@naveenkumarbuilds-stack](https://github.com/naveenkumarbuilds-stack)
 
 ---
+
+<p align="center">
+  <img src="assets/profile-divider.gif" alt="" width="960" />
+</p>
 
 > **"Consistency beats motivation."**
 > Learn every day. Build consistently. Improve continuously. 🚀
